@@ -584,6 +584,7 @@ OUTPUT FILES (in src/main/webapp/js/):
 				<file name="mxFreehand.js" />
 				<file name="P2PCollab.js" />
 				<file name="Simple.js" />
+				<file name="ObjectTree.js" />
 			</sources>
 		</jscomp>
 

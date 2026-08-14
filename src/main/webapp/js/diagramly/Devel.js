@@ -255,6 +255,8 @@ if (!window.DRAWIO_PUBLIC_BUILD)
 	mxscript(drawDevUrl + 'js/diagramly/vsdx/VsdxExport.js');
 }
 
+mxscript(drawDevUrl + 'js/diagramly/ObjectTree.js');
+
 // ELK layout engine + mxGraph bridge (drawio-elk port, built from
 // ../drawio-elk). Exposes window.ELK (engine), window.ElkLayout (facade
 // extending mxGraphLayout), window.ElkAdapter, window.ElkApplier.
